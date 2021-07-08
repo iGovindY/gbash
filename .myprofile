@@ -14,3 +14,7 @@ alias ls='ls $LS_OPTIONS'
 alias cd..='cd ..'
 alias cd...='cd ../..'
 alias cls='clear'
+
+
+alias gst='git st '
+alias gstu='git st -uno '
